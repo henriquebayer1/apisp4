@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API4SP", "API4SP.csproj", "{EB26A1B0-C545-4559-8501-1AB95FEC9988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XunitAPISP4", "..\XunitAPISP4\XunitAPISP4.csproj", "{1AB15FD9-A8E2-4C9B-9B69-C5F43FD808CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB26A1B0-C545-4559-8501-1AB95FEC9988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB26A1B0-C545-4559-8501-1AB95FEC9988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB26A1B0-C545-4559-8501-1AB95FEC9988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB26A1B0-C545-4559-8501-1AB95FEC9988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB15FD9-A8E2-4C9B-9B69-C5F43FD808CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB15FD9-A8E2-4C9B-9B69-C5F43FD808CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB15FD9-A8E2-4C9B-9B69-C5F43FD808CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB15FD9-A8E2-4C9B-9B69-C5F43FD808CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E2182C-795C-4BCD-B21F-F9B341F1C911}
+	EndGlobalSection
+EndGlobal
